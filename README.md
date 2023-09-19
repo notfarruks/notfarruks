@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Farrukh. 
+### Hi there 👋 
 I'm currently doing my undergraduate studies in CS at Bilkent University.
 
 <!--
