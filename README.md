@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there, my name is Farrukh. 
+My name is Farrukh. 
 I'm currently doing my undergraduate studies in CS at Bilkent University.
 
 <!--
